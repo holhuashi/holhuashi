@@ -4,7 +4,7 @@
 html, body { margin: 0; padding: 0; background: #fefefe; }
 .main-wrapper { color: #333; text-align: right; direction: rtl; font-family: thaana; padding: 30px; max-width: 700px; margin: 0 auto;}
 .arabic { font-family: arabic; font-size: 21px; }
-.meta { color: #666;}
+.meta { color: #666; margin: 0; font-family: sans-serif; font-size: 14px;}
 h1 { margin-bottom: 0px; }
-.content { font-size: 18px; margin-top: 10px; }
+.content { font-size: 18px; margin-top: 25px; }
 			
