@@ -3,8 +3,10 @@ layout: post
 title: އިޒުރޭލާ ގުޅިގެން އަހަރެމެން ދަނީ އައިއެސްއާ ހަނގުރާމަކުރަމުން- މިޞްރުގެ ރައީސް އަލްސިސީ
 date: 2018-05-07
 ---
-<br/>
+<span>
 ![egyptwithjews](/assets/egyptwithjews.jpeg)
+ </span>
+<br/>
 <br/>
  "ސީބީއެސް ނިއުސް" އަށް "60 މިނިޓްސް" ނަމަކަށް ކިޔާ ޕްރޮގުރާމުގައި ސިސީ ދިން [އިންޓަރވިއުގައި](https://www.washingtonpost.com/world/egypts-president-may-have-said-too-much-in-a-60-minutes-interview--which-egypt-then-tried-to-have-killed/2019/01/04/7cde300e-1034-11e9-8f0c-6f878a26288a_story.html?noredirect=on&utm_term=.1ba9e349369e) ސިސީ ބުނެފައިވަނީ އިޒުރޭލާ ގުޅިގެން ސިނާއީ ސަރަޙައްދުގައި "ގޮތްދޫނުކުރާ" އައިއެސްގެ ހަނގުރާމަވެރިންނާ ހަނގުރާމަކުރަމުންދާ ކަމަށެވެ.
  <br/>
